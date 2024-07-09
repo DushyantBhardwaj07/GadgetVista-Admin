@@ -2,29 +2,14 @@ import { useSession, signIn, signOut } from "next-auth/react"
 import Nav from "@/components/Nav";
 import { useState } from "react";
 import Logo from "./Logo";
+import SignIn from "./SignIn";
 
 export default function Layout({ children }) {
   const [showNav, setShowNav] = useState(false);
   const { data: session } = useSession();
 if (!session) {
     return (
-      <div className="bg-blue-400 min-h-screen flex flex-col items-center justify-center relative">
-        <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-blue-600 opacity-50"></div>
-        </div>
-        <h1 className="text-4xl font-bold mb-9 text-white z-10">GadgetVista</h1>
-        <div className="text-center w-full sm:w-96 mx-4">
-          <div className="bg-white p-8 rounded-lg shadow-lg border border-gray relative z-10">
-            <h1 className="text-2xl font-bold mb-8 p-3 text-gray-800">Welcome to Admin Panel</h1>
-            <button
-              onClick={() => signIn('google')}
-              className="bg-blue-700 p-3 px-6 rounded-lg font-bold text-white shadow-lg hover:bg-blue-800 focus:outline-none focus:ring focus:border-blue-300"
-            >
-              Login with Google
-            </button>
-          </div>
-        </div>
-      </div>
+      <SignIn />
     );
   }
 

@@ -11,6 +11,7 @@ module.exports = {
         primary: '#5542F6',
         highlight: '#e1defc',
         bgGray: '#fbfafd',
+        ivory: '#F6F7EB',
       },
     },
   },
