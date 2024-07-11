@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
    Create a .env.local file and add your environment variables (e.g., MongoDB URI, JWT secret, etc.).
 
 5. **Run the development server:**
-         ```sh
+   ```sh
       npm run dev
    ```
 6. **Open your browser:**
