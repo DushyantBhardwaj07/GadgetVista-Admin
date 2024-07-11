@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 
 5. **Run the development server:**
    ```sh
-      npm run dev
+   npm run dev
    ```
 6. **Open your browser:**
    Visit http://localhost:3000 to view the admin panel.
