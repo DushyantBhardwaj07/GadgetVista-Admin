@@ -24,13 +24,13 @@ Check out the deployed version of the admin panel [here](https://gadget-vista-ad
 
 ## Screenshots 📸
 ### Dashboard
-<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/3e3d6f90-fed8-446d-89c1-7bedc7c3bb27">
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/3e3d6f90-fed8-446d-89c1-7bedc7c3bb27">;
 ### Products
-<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/62805ff0-3dcc-4be5-8bf4-72fdf8c2a510">
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/62805ff0-3dcc-4be5-8bf4-72fdf8c2a510">;
 ### Categories
-<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/17237047-3d08-43e2-b418-b53306dc047e">
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/17237047-3d08-43e2-b418-b53306dc047e">;
 ### Orders
-<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/89d720ee-c534-4708-9d30-a1d048f408db">
+<img width="959" alt="image" src="https://github.com/DushyantBhardwaj07/GadgetVista-Admin/assets/100109472/89d720ee-c534-4708-9d30-a1d048f408db">;
 
 
 ## Installation 🛠️
